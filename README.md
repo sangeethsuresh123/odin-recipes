@@ -1,2 +1,2 @@
 # odin-recipes
-This is an HTML based recipes website done as part of TOP
+This is an HTML/CSS based recipes website done as part of TOP
