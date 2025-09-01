@@ -1,0 +1,42 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  text-align: center;
+  border: 2px solid;
+  font-size: 50px;
+  background-color: rgb(185, 167, 236);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border: 10px solid rgb(219, 226, 37);
+  margin-bottom: 20px;
+}
+
+div {
+  width: 75%;
+  font-size: 25px;
+  margin: 0 auto;
+}
+
+h2 {
+  background-color: rgb(138, 210, 120);
+  padding: 10px;
+  border: 2px solid;
+  width: fit-content;
+  margin: 0 auto;
+  margin-bottom: 5px;
+}
+
+p,
+ul,
+ol {
+  background-color: pink;
+  padding: 10px;
+  border: 2px solid;
+  margin-top: 0px;
+  list-style-position: inside;
+}
